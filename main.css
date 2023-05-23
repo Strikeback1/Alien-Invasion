@@ -1,5 +1,8 @@
 body{
-background : #FFC0CB;
+background-image: url(../Pictures/horse.jpg);
+ /*background-repeat: repeat;*/
+background-size: cover;
+background: #FFC0CB;       
 }
 h1{
 color: #000000;
