@@ -1,7 +1,7 @@
 body{
-background-image: url(../Pictures/horse.jpg);
+background-image: url(../Pictures/horses.jpg)
  /*background-repeat: repeat;*/
-background-size: cover;
+backround: cover;
 background: #FFC0CB;       
 }
 h1{
